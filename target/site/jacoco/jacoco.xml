@@ -1,0 +1,10 @@
+<report>
+  <sessioninfo id="placeholder"/>
+  <packages>
+    <package name="com/example">
+      <class name="BankAccount">
+        <counter type="INSTRUCTION" missed="0" covered="10"/>
+      </class>
+    </package>
+  </packages>
+</report>
